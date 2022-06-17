@@ -14,6 +14,8 @@
         <entry key="app/src/main/res/layout/post_details.xml" value="0.335" />
         <entry key="app/src/main/res/layout/post_item.xml" value="0.17391304347826086" />
         <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/menu_item.xml" value="0.34791666666666665" />
+        <entry key="app/src/main/res/menu/menu_logout_option.xml" value="0.3328125" />
       </map>
     </option>
   </component>
